@@ -82,7 +82,7 @@ Please do not remove this section, it helps us a lot to have this information av
 
 Template: scala-sbt
 
-##Clarifications:
+## Clarifications:
 
 **Libraries used:**
 - Sttp for HTTP support
